@@ -1,0 +1,38 @@
+#paragraph{
+    font-weight: bold;
+
+
+
+
+}
+
+#shipping{
+    color: cadetblue;
+
+
+
+}
+
+.one{
+    font-style: italic;
+}
+
+#vip{
+    background-color: chartreuse;
+    margin: 40px;
+    padding: 30px;
+    border-radius: 10px;
+    color: brown;
+}
+
+#main{
+    display: flex;
+}
+
+.customer{
+    background-color: burlywood;
+    margin-left: 20px;
+    padding: 30px;
+    text-align: center;
+    border-radius: 20px;
+}
